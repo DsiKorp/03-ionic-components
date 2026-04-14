@@ -1,0 +1,1 @@
+ionic g page pages/alert --spec=false --standalone=false
