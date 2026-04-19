@@ -8,3 +8,4 @@ ionic capacitor copy android
 
 ionic capacitor run android -l --host=193.168.10.12
 
+ionic g m components --dry-run
