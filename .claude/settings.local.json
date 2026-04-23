@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm start *)",
+      "Bash(pkill -f \"ionic serve\")",
+      "Bash(pkill -f \"ng serve\")",
+      "Bash(ionic serve *)",
+      "Bash(pkill -9 -f \"node.*ng\")",
+      "Bash(pkill -9 -f \"ionic\")",
+      "Bash(npm install *)",
+      "Bash(ionic integrations *)",
+      "Bash(ionic cordova *)",
+      "Bash(sudo apt *)",
+      "Bash(gradle --version)",
+      "Bash(dpkg -L gradle)",
+      "Bash(java *)",
+      "Bash(npm run *)",
+      "Bash(cordova prepare *)",
+      "Bash(cordova platform *)",
+      "Bash(git checkout *)",
+      "Bash(npx cap *)"
+    ]
+  }
+}

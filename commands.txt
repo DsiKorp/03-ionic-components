@@ -13,3 +13,5 @@ ionic g m components --dry-run
 
 https://ionic-compoments.netlify.app/inicio
 
+https://github.com/DsiKorp/03-ionic-components
+
